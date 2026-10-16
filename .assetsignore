@@ -1,0 +1,6 @@
+.git/
+.workbuddy/
+.DS_Store
+回忆照片/
+wrangler.json
+.assetsignore
